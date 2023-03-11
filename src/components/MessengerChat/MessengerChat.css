@@ -1,0 +1,23 @@
+.MessengerChat{
+	min-width: 100%;
+	min-height: 100%;
+	border-bottom: 1px solid #dfdfdf;
+}
+
+.message_right {
+	text-align: right;
+}
+
+.current {
+	background-color: darkgray;
+}
+
+.message_type {
+	padding: 5px 10px;
+	border-radius: 10px;
+	border: 1px solid gray;
+	color: #000;
+	font-size: 16px;
+	margin: 10px;
+	width: fit-content;
+}
